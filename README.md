@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E2A93B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Eli+Bury;Building+what+they+said+was+impossible." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E2A93B&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Eli+Bury;Building+what+they+said+was+impossible." alt="Typing SVG" />
 
 <br/>
 
@@ -88,10 +88,10 @@
 <div align="center">
 
 <a href="https://github.com/elisplash">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=elisplash&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E2A93B&icon_color=FF6F61&text_color=c9d1d9&ring_color=FF6F61&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elisplash&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E2A93B&icon_color=FF6F61&text_color=c9d1d9&ring_color=FF6F61&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/elisplash">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=elisplash&hide_border=true&background=0d1117&ring=FF6F61&fire=E2A93B&currStreakLabel=E2A93B&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="Streak Stats"/>
+  <img height="200" src="https://streak-stats.demolab.com?user=elisplash&hide_border=true&background=0d1117&ring=FF6F61&fire=E2A93B&currStreakLabel=E2A93B&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="Streak Stats"/>
 </a>
 
 </div>
@@ -108,7 +108,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=elisplash&theme=darkhub&no-frame=true&no-bg=true&column=7&title=Commits,Repositories,Stars,PullRequest,Followers,Issues,Experience" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=elisplash&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 
 </div>
 
