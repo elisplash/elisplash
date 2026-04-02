@@ -108,7 +108,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=elisplash&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=elisplash&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 
 </div>
 
@@ -124,6 +124,7 @@
 
 </div>
 
+<!-- Snake animation — requires GitHub Actions. Fix billing to enable.
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elisplash/elisplash/output/github-snake-dark.svg" />
@@ -131,3 +132,4 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/elisplash/elisplash/output/github-snake-dark.svg" />
   </picture>
 </div>
+-->
