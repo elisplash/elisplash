@@ -26,7 +26,8 @@
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/OPEN_SOURCE-E2A93B?style=flat-square" alt="Open Source"/> OpenPawz
+<img src="assets/openpawz-logo.png" alt="OpenPawz" width="180"/>
+
 **Rust-native AI platform** — offline-first, private-by-default. Tauri v2 desktop app with hybrid vector memory (Engram), 400+ built-in tools, Tool RAG, MCP server support, n8n integration engine, TOML skill system, and security guardrails. Runs local models or any provider.
 
 `Rust` `Tauri v2` `SQLite` `HNSW` `TypeScript`
@@ -36,7 +37,8 @@
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/DESKTOP-FF6F61?style=flat-square" alt="Desktop"/> Pawz Desktop
+<img src="assets/pawz-desktop-logo.png" alt="Pawz Desktop" width="180"/>
+
 **Native AI chat app** powered by the OpenPawz engine. Multi-provider model routing (OpenAI, Anthropic, Google, Ollama), real-time streaming, custom agents, session management. Full Rust backend, React frontend.
 
 `Rust` `Tauri v2` `React` `TypeScript`
@@ -46,7 +48,8 @@
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/IDE-FF6F61?style=flat-square" alt="IDE"/> OPIDE
+<img src="assets/opide-logo.png" alt="OPIDE" width="180"/>
+
 **First Rust-native AI IDE.** AST-level code indexing, QuickJS sandbox, AES-256-GCM encrypted workspace, and OVST — the first extension runtime built for a Rust IDE. Zero Electron. Zero compromise.
 
 `Rust` `QuickJS` `Tree-sitter` `AES-256-GCM`
@@ -54,7 +57,8 @@
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/ORCHESTRATION-2D5A3D?style=flat-square&logoColor=white" alt="Orchestration"/> OP/IO
+<img src="assets/opio-logo.png" alt="OP/IO" width="180"/>
+
 **Agent orchestration environment.** VS Code-shell architecture rebuilt in Rust + Tauri. Multi-agent coordination, persistent workspaces, and a native runtime for autonomous AI workflows.
 
 `Rust` `Tauri v2` `TypeScript`
